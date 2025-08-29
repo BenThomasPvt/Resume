@@ -15,7 +15,7 @@ This repository contains the most recent version of my resume.
 
 ## 📁 File Included
 
-- `BennyThomas_Resume_Polished.pdf` – My polished and up-to-date resume
+- `BennyThomasResume.pdf` – My polished and up-to-date resume
 
 ---
 
